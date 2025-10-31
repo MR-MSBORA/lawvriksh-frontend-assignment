@@ -25,13 +25,13 @@ You can view the live project here:
 
 ## Project Structure
 
-lawvriksh-frontend-assignment/
-├── public/
-├── src/
-│ ├── components/
-│ │ ├── Dash.jsx
-│ │ ├── Overview.jsx
-│ │ └── OverallProgress.jsx
+lawvriksh-frontend-assignment/<br>
+├── public/<br>
+├── src/<br>
+│ ├── components/<br>
+│ │ ├── Dash.jsx<br>
+│ │ ├── Overview.jsx<br>
+│ │ └── OverallProgress.jsx<br>
 │ ├── reusables/
 │ │ ├── Button.jsx
 │ │ └── ProjectDashboard.jsx
