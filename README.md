@@ -32,10 +32,10 @@ lawvriksh-frontend-assignment/<br>
 │ │ ├── Dash.jsx<br>
 │ │ ├── Overview.jsx<br>
 │ │ └── OverallProgress.jsx<br>
-│ ├── reusables/
-│ │ ├── Button.jsx
-│ │ └── ProjectDashboard.jsx
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
+│ ├── reusables/<br>
+│ │ ├── Button.jsx<br>
+│ │ └── ProjectDashboard.jsx<br>
+│ ├── App.js<br>
+│ └── index.js<br>
+├── package.json<br>
+└── README.md<br>
